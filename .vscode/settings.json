@@ -1,0 +1,4 @@
+{
+    "clang-format.assumeFilename": "*.c;*.h",
+    "editor.formatOnSave": true
+}
